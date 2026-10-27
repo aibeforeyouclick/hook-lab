@@ -1,0 +1,38 @@
+# Downloaded media and run output: never commit
+runs/
+competitor-videos/
+videos/
+transcripts/
+strips/
+*.mp4
+*.mkv
+*.webm
+*.jpg
+
+# Personal inputs
+channels.txt
+urls.txt
+
+# Secrets: never commit
+cookies*.txt
+*.cookies
+.env
+.env.*
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+watch/
+
+# Local notes produced by `hooklab learn` (your own knowledge base)
+reels/
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,4 @@
+# One YouTube channel per line: @handle, a name, or a channel URL.
+# Lines starting with # are ignored. Copy this file to channels.txt and edit.
+@example_channel_one
+@example_channel_two

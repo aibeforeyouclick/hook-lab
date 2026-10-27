@@ -1,0 +1,6 @@
+# Minimums are the versions this release was tested with.
+yt-dlp[default]>=2026.8.19
+openai-whisper>=20250625
+# Optional: on-screen text (OCR) and labelled contact sheets for `hooklab watch`
+# rapidocr-onnxruntime>=1.4.4
+# Pillow>=13.0.0
